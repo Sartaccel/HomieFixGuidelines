@@ -3,7 +3,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 
 const Footer = () => {
     return (
-        <footer className="bg-secondary text-light py-4 mt-5">
+        <footer style={{padding: "2.4rem 0"}} className="bg-secondary text-light mt-5">
             <div className="container text-center">
                 <p className="mb-2">© 2025 HomieFix. All rights reserved.</p>
 
