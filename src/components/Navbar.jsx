@@ -5,7 +5,7 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg navbar-light bg-light px-3 border-bottom">
             <a className="navbar-brand d-flex align-items-center" href="#">
                 <img
-                    src="./src/assets/HomeFix App Icon.png"
+                    src="./src/assets/logo.png"
                     alt="HomieFix Logo"
                     width="40"
                     height="40"
